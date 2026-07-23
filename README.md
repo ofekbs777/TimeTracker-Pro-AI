@@ -146,5 +146,5 @@ TimeTracker-Pro-AI/
 
 <p align="center">
   <b>TimeTracker Pro</b> — Engineering Operational Efficiency through AI. <br>
-  Developed by <a href="https://github.com/ofekbs777">Ofek Ben Shabat</a>.
+  Developed by <a href="https://github.com/ofekbs777">Ofek Ben Shlush</a>.
 </p>
