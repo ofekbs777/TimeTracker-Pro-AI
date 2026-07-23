@@ -82,3 +82,69 @@ Traditional time-tracking software forces users into tedious manual logging, com
 ---
 
 ## 🏗️ System Architecture & Tech Stack
+
+┌─────────────────────────────────────────────────────────┐
+│               TimeTracker Pro Web Client                │
+│       (React / Modern Component Architecture / RTL)     │
+└────────────────────────────┬────────────────────────────┘
+│
+▼
+┌─────────────────────────────────────────────────────────┐
+│            AI Assistant & NLP Parser Engine             │
+│      (Context Contextualization / Prompt Pipeline)      │
+└────────────────────────────┬────────────────────────────┘
+│
+▼
+┌─────────────────────────────────────────────────────────┐
+│         Analytics, Storage & Export Middleware          │
+│       (Dynamic Charts / Export Engine / Client State)    │
+└─────────────────────────────────────────────────────────┘
+
+
+| Domain | Technology / Component | Functionality |
+| :--- | :--- | :--- |
+| **Frontend Platform** | HTML5 / CSS3 / JavaScript (ES6+) | High-performance responsive UI rendering |
+| **AI Integration** | Natural Language Processing (NLP) | Context parsing, automated session creation |
+| **Design System** | Tailored Modern Glassmorphism & Dark Mode | Enterprise-grade UI/UX standards |
+| **Localization** | i18n Directional Framework | Full Hebrew/English RTL & LTR support |
+
+---
+
+## 📄 Presentation & Case Study
+
+The complete product strategy, competitive landscape analysis, technical design decisions, and future roadmap are detailed in the official slide deck.
+
+<p align="center">
+  <a href="./assets/Next-Gen_Workflow_Intelligence.pdf">
+    <img src="https://img.shields.io/badge/Open-Next--Gen_Workflow_Intelligence_PDF-dc3545?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Open PDF Deck">
+  </a>
+</p>
+
+---
+
+## 🚀 Getting Started & Deployment
+
+### Accessing the Web Application
+No installation required. You can test and interact with the full feature set directly on the production platform:
+👉 **[Launch Application at timetrackermalam.base44.app](https://timetrackermalam.base44.app/)**
+
+### Repository Directory Structure
+TimeTracker-Pro-AI/
+├── assets/
+│   ├── Time_Tracking_Software_Features_Overview.png  # High-res system infographic
+│   └── Next-Gen_Workflow_Intelligence.pdf           # Executive pitch deck & case study
+└── README.md                                         # Product documentation & landing page
+
+
+---
+
+## 🛡️ Security & Privacy
+* **Local First Architecture:** Session data and client parameters remain localized within enterprise privacy boundaries.
+* **No Unsanitized Storage:** AI context calls isolate personal parameters to maintain compliance standards.
+
+---
+
+<p align="center">
+  <b>TimeTracker Pro</b> — Engineering Operational Efficiency through AI. <br>
+  Developed by <a href="https://github.com/ofekbs777">Ofek Ben Shabat</a>.
+</p>
