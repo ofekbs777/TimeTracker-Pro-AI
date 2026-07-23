@@ -1,33 +1,52 @@
-# ⏱️ TimeTracker Pro — AI-Powered Workflow Intelligence
-
-[![Live App](https://img.shields.io/badge/Live_Website-Visit_App-brightgreen?style=for-the-badge&logo=googlechrome)](https://timetrackermalam.base44.app/)
-[![View Presentation](https://img.shields.io/badge/PDF_Presentation-View_Slide_Deck-red?style=for-the-badge&logo=adobeacrobatreader)](./Next-Gen_Workflow_Intelligence.pdf)
-
-> **TimeTracker Pro** היא פלטפורמה מתקדמת לניהול זמן, מעקב משימות ואוטומציית דוחות חכמה מבוססת AI עבור ארגונים, צוותים ומקצוענים.
-
----
-
-## 🌟 תכונות מרכזיות (Features Overview)
-
 <p align="center">
-  <img src="./Time_Tracking_Software_Features_Overview.png" alt="TimeTracker Pro Features Overview" width="100%">
+  <h1 align="center">⏱️ TimeTracker Pro</h1>
+  <p align="center">
+    <b>Next-Generation AI-Driven Time Management & Workflow Intelligence</b>
+  </p>
+  <p align="center">
+    <a href="https://timetrackermalam.base44.app/"><img src="https://img.shields.io/badge/Live_Demo-Visit_Application-brightgreen?style=for-the-badge&logo=googlechrome" alt="Live Demo"></a>
+    <a href="./assets/Next-Gen_Workflow_Intelligence.pdf"><img src="https://img.shields.io/badge/Presentation-View_Slide_Deck-red?style=for-the-badge&logo=adobeacrobatreader" alt="Presentation PDF"></a>
+  </p>
 </p>
 
-### 🚀 מה המערכת מציעה?
-* **🤖 AI-Powered Smart Assistant:** זימון והוספת שעות עבודה דרך ממשק צ'אט בשפה טבעית במינימום מאמץ.
-* **📊 Visual Dashboards & Summaries:** לוח בקרה ניהולי בזמן אמת, גרפים ופילוח שעות חודשי אוטומטי.
-* **🌐 Native RTL & Multilingual Support:** תמיכה מלאה בריבוי שפות (עברית / אנגלית) ומצב כהה (Dark Mode).
-* **📁 Organizational Boundaries:** חלוקת משימות לקטגוריות (עבודה, אישי, לימודים, בריאות) ושליטה מלאה בנתונים.
-* **🔄 Seamless Import/Export:** יצוא ויבוא של דוחות לקוחות וקובצי נתונים בלחיצת כפתור.
+---
+
+## 🌟 Executive Summary
+
+**TimeTracker Pro** is an enterprise-grade time tracking and workflow analytics platform engineered to eliminate friction between executing work and reporting it. Featuring an intuitive conversational AI assistant, automated monthly summaries, native RTL/multilingual support, and high-level admin controls, it transforms raw task logs into actionable business intelligence.
 
 ---
 
-## 📄 מצגת הפרויקט המלאה (Full Slide Deck)
+## 🖼️ Feature & Platform Overview
 
-רוצים להעמיק בארכיטקטורה ובפתרון?  
-👉 **[לחץ כאן לצפייה במצגת ה-PDF המלאה (Next-Gen Workflow Intelligence)](./Next-Gen_Workflow_Intelligence.pdf)**
+<p align="center">
+  <img src="./assets/Time_Tracking_Software_Features_Overview.png" alt="TimeTracker Pro Feature Overview" width="100%" />
+</p>
 
 ---
 
-## 🌐 קישורים ישירים
-* **האתר החי:** [timetrackermalam.base44.app](https://timetrackermalam.base44.app/)
+## 🚀 Key Features
+
+* 🤖 **AI-Powered "Smart Assistant":** Conversational session entry using natural language processing to log, calculate, and tag tasks automatically.
+* 📊 **Intelligent Analytics & Reporting:** Real-time visual dashboards converting logged hours into dynamic bar charts and distribution graphs.
+* 🌍 **Native Multilingual & RTL Support:** Built from the ground up for international ecosystems with seamless Hebrew/English switching and Dark Mode support.
+* 💼 **Workspace & Client Management:** Effortless categorization across work, personal, learning, and health domains with custom tags and priority toggles.
+* 🔄 **Absolute Data Mobility:** One-click import/export capabilities for client rosters, task lists, and monthly billing reports.
+* 🏢 **Enterprise Admin Dashboard:** Top-down management interface allowing leaders to monitor team velocity, total hours, and billable ratios in real time.
+
+---
+
+## 📄 Case Study & Architecture Deck
+
+For an in-depth look into the system methodology, ROI analysis, and visual workflows, access the full presentation deck:
+
+👉 **[View Full Slide Deck (Next-Gen Workflow Intelligence PDF)](./assets/Next-Gen_Workflow_Intelligence.pdf)**
+
+> *"TimeTracker Pro removes the manual overhead of time reporting—enabling professionals and enterprise teams to focus on high-impact execution."*
+
+---
+
+## 🌐 Live Application Access
+
+Explore the live application directly in your browser:  
+🔗 **[timetrackermalam.base44.app](https://timetrackermalam.base44.app/)**
